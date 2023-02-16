@@ -12,9 +12,9 @@ npm install -g zhy22-cli
 npm install
 ```
 
-### 使用 zhy22-cli 创建项目（目前只支持vue-simple）
+### 使用 zhy22-cli 创建项目（目前只支持vue-simple react-simple vue-nuxt）
 ```
-zhy-cli createApp <projectName>
+zhy22-cli createApp <projectName>
 ```
 
 

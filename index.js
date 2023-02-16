@@ -30,7 +30,7 @@ program.command('createApp <name>')
             name: 'type',
             type: 'list',
             message: 'choose a type of project to init',
-            choices: ['vue-simple', 'react-simple'],
+            choices: ['vue-simple', 'react-simple', 'vue-nuxt'],
             default: 'vue'
         }
     ]).then((parameter) => {
